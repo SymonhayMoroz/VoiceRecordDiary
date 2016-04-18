@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A365CF34-8B93-4DCB-99BF-BFC4B454BE49</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VoiceDiary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B4B7437-CE60-49DB-854B-A78618753462</key>
+		<string>https://github.com/ICoi/VoiceDiary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VoiceDiary.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B4B7437-CE60-49DB-854B-A78618753462</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ICoi/VoiceDiary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B4B7437-CE60-49DB-854B-A78618753462</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B4B7437-CE60-49DB-854B-A78618753462</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VoiceDiary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
